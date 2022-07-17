@@ -1,0 +1,15 @@
+{
+    "name": "hola/notas",
+    "autoload": {
+        "psr-4": {
+            "Hola\\Notas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "angel",
+            "email": "perdonholaperdon123@gmail.com"
+        }
+    ],
+    "require": {}
+}
